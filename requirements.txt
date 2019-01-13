@@ -1,0 +1,14 @@
+Flask              # Web Framework
+six                # Python 2 and 3 compatibility library. See https://six.readthedocs.io/
+Flask-HTTPAuth     # See https://github.com/miguelgrinberg/Flask-HTTPAuth
+pymysql
+pandas
+
+#  Flask-SQLAlchemy
+# itsdangerous       # A port of Django signing module to pass data around.
+# Jinja2==2.9.6
+# MarkupSafe==1.0
+# passlib==1.7.1
+# SQLAlchemy==1.1.11
+# Werkzeug==0.12.2
+# pytz               # pytz brings the Olson tz database into Python. 
